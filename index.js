@@ -8,3 +8,6 @@ console.log('okay, cool.');
 
 // to pull
 console.log('bye world.');
+
+// to revert
+console.log('really');
